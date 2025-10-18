@@ -1,4 +1,4 @@
-![[assets/Joystick.png.png]]
+![Wiring](assets/Joystick.png)
 
 
 | Raspberry Pi Pico |                | KY-023 |

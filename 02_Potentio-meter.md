@@ -5,7 +5,7 @@ We will now use the potentiometer to control our buzzers
 
 
 
-![[PotentionMeter.png.png]]
+![Wiring](assets/PotentionMeter.png)
 
 
 ```python

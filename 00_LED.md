@@ -1,4 +1,4 @@
-![[assets/LED.png.png]]
+![Wiring](assets/LED.png)
 
 ```python
 from machine import Pin, PWM

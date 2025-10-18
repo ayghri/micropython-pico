@@ -1,4 +1,6 @@
-![[assets/LED Button.png.png]]
+
+![Wiring](assets/LED_Button.png)
+
 
 
 ```python

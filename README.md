@@ -7,7 +7,8 @@ The microcontroller has 40 General-Purpose Input/Output (**GPIO**) pins that all
 
 The board can be powered up via USB. For power-hungry application, we can use VBUS, but it's generally not recommended to power devices directly from the board. External supplies and switches have to be used.
 There is a 3.3v logic limit; never put >3.3 V on a GPIO pin.
-![[assets/pico_pins.png]]
+
+![Pinout](assets/pico_pins.png)
 
 - **USB micro‑B**: powers the board and provides a programming/serial link.
 - **BOOTSEL button**: hold while plugging in to enter storage/flash mode. You use this to flash firmwares. For this workshop, the boards were already flashed with MicroPython firmware to run Python code.
